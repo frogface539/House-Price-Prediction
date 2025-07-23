@@ -25,7 +25,9 @@ An interactive machine learning web application that predicts house prices in In
 
 ---
 ## 💻 Demo
-🔗 [Watch Demo Video](https://indian-house-price-prediction.streamlit.app/)
+
+🔗 https://indian-house-price-prediction.streamlit.app/
+
 ---
 
 ## 🧱 Project Structure
