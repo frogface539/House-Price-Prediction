@@ -83,14 +83,6 @@ House-Price-Predictor/
 * `matplotlib`, `seaborn` — For EDA (Exploratory Data Analysis)
 
 ---
-
-## 📌 Notes
-
-* The dataset (`House Price India.csv`) is not included due to size limits. Make sure to place it in the `/dataset` folder before training or running the app.
-* The model was trained and saved using the processed dataset — ensure the same preprocessing logic in `utils.py` is used during prediction.
-
----
-
 ## 👤 Author
 
 **Lakshay Jain**
